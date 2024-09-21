@@ -7,6 +7,9 @@ int main()
 {
     std::cout << "fsdfasdfs\n";
     std::cout << "Hello World - fsdfa\n";
+    std::cout << "1\n";
+    std::cout << "2\n";
+    std::cout << "3\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
